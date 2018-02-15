@@ -1,0 +1,98 @@
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.broadway {
+    position: absolute;
+    bottom: 230px;
+    left: 340px;
+    font-family: helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+.home {
+position: absolute;
+bottom: 200px;
+left: 600px;
+font-family: helvetica;
+font-size: 18px;
+color: white;
+text-decoration: underline;
+}
+
+.about {
+position: absolute;
+bottom: 150px;
+left: 600px;
+font-family: helvetica;
+font-size: 18px;
+color: white;
+text-decoration: underline;
+}
+
+.work {
+position: absolute;
+bottom: 100px;
+left: 600px;
+font-family: helvetica;
+font-size: 18px;
+color: white;
+text-decoration: underline;
+}
+
+.team {
+position: absolute;
+bottom: 50px;
+left: 600px;
+font-family: helvetica;
+font-size: 18px;
+color: white;
+text-decoration: underline;
+}
+
+.contact {
+position: absolute;
+bottom: 5px;
+left: 600px;
+font-family: helvetica;
+font-size: 18px;
+color: white;
+text-decoration: underline;
+}
+.our-process {
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 32px;
+  text-align: center;
+  color: black;
+}
+
+.identify {
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 23px;
+  text-align: center;
+  color: black;
+}
+
+.understand {
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 23px;
+  text-align: center;
+  color: black;
+}
+
+.execute {
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 23px;
+  text-align: center;
+  color: black;
+}
