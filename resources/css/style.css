@@ -96,3 +96,29 @@ text-decoration: underline;
   text-align: center;
   color: black;
 }
+img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+  text-align: center;
+}
+
+.container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    top: 20px;
+    right: 0px;
+    left: 0px;
+    background-color: white;
+    color: black;
+  
+}
